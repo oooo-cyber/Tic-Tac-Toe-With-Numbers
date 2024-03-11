@@ -1,3 +1,6 @@
 # Tic-Tac-Toe-With-Numbers
-## A board of 3 x 3 is displayed and players take turns selecting numbers from the list of 1 to 9. Once a number is chosen, it cannot be chosen again.
-## If a player picks three numbers that sum up to 15, they win. If all numbers are used and no player achieves a sum of exactly 15, the game ends in a draw.
+## Tic-Tac-Toe with numbers is played on a 3x3 board. Player 1 uses odd
+## numbers (1, 3, 5, 7, 9) and player 2 uses even numbers (0, 2, 4, 6, 8).
+## Players take turns to place their numbers on the board, starting with odd
+## numbers. Each number can only be used once. The winner is the first person to
+## complete a line that adds up to 15, which can include both odd and even
